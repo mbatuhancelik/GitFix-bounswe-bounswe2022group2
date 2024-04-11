@@ -1685,3 +1685,6 @@ management of our software project:
 I did not miss any lecture or lab time. Actively participated in all team meetings, demo ideas and demos.
 
 --------------------
+
+
+Edited by gitfix
