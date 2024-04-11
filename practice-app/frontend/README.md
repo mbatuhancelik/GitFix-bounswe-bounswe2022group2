@@ -50,3 +50,5 @@ npm run build
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+Edited by gitfix
